@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: Peter Costantino
+
+Hello! This is my personal tutorial assignment that I am testing out.
 
 ## 🤓 Course overview and learning outcomes 
 
