@@ -2,8 +2,6 @@
 
 Hello! This is my personal tutorial assignment that I am testing out.
 
-Fish are cold-blooded vertebrates that live wholly in water. They have no limbs. Instead, they live, move (swim), and breathe thanks to the unique combination of their tail, fins, gills, and scales fitted to their elongated and limbless bodies.
-
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
